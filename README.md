@@ -1,7 +1,10 @@
-# ![](MScreD/LOGO.png) MScreD
+![](MScreD/LOGO.png) 
+#MScreD
+
 Please read the GUIDE file and view PDF file before downloading the tool.
 
 Thanks.!
+
 Email: savitesh.sunny@gmail.com
 
 The scientific paper based on this software has been published in Computer Methods and Programs in Biomedicine Journal.
